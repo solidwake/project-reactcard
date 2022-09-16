@@ -7,13 +7,11 @@ import Footer from './Footer'
 function Card() {
   return (
     <div className="container">
-      <div>
-        <Photo />
-        <Title />
-        <Button />
-        <Body />
-        <Footer />
-      </div>
+      <Photo />
+      <Title />
+      <Button />
+      <Body />
+      <Footer />
     </div>
   );
 }
