@@ -1,7 +1,7 @@
 export default function Button() {
     return (
-        <div className="">
-            <button></button>
+        <div className="email">
+            <button type="submit" className="btn">Email</button>
         </div>
     )
 }
