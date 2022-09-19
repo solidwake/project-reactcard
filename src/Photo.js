@@ -1,6 +1,5 @@
 import profilePhoto from './images/hero.jpg'
 
-
 export default function Photo() {
     return (
         <div className="top-picture">

@@ -1,5 +1,3 @@
-import './index.css';
-
 export default function Button() {
     return (
         <div className="email">
