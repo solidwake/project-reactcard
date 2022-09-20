@@ -7,12 +7,14 @@ import './index.css';
 
 function Card() {
   return (
-    <div className="container">
+    <div className="frame">
       <Photo />
-      <Title />
-      <Button />
-      <Body />
-      <Footer />
+      <div className="container">
+        <Title />
+        <Button />
+        <Body />
+        <Footer />
+      </div>
     </div>
   );
 }

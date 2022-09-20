@@ -2,9 +2,9 @@ export default function Body() {
     return (
         <div className="middle">
             <h3 className="about">About</h3>
-            <p className="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh tortor id aliquet lectus proin.</p>
+            <p className="text-1">I build fast, scalable, responsive web applications and websites using the MERN stack.</p>
             <h3 className="interests">Interests</h3>
-            <p className="text">Fringilla ut morbi tincidunt augue interdum velit. Non arcu risus quis varius. Gravida quis blandit turpis cursus in hac. In hac habitasse platea dictumst quisque sagittis.</p>
+            <p className="text-2">When I'm not coding and designing products, I'm spending time with my family, playing guitar, tinkering with Raspberry Pi, or gaming.</p>
         </div>
     )
 }
